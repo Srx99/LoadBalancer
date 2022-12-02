@@ -1,0 +1,17 @@
+C:\Users\Srx\Desktop\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Srx\Desktop\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Srx\Desktop\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Kosta-PC\Documents\test1\RES-TIM-11\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Srx\Desktop\RES-TIM-11\Projekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
